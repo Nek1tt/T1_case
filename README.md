@@ -7,7 +7,7 @@
 
 ```bash
 git clone https://github.com/Nek1tt/T1_case.git
-
+cd T1_case
 python -m http.server 8080
 ```
 После этого переходим на страницу:
