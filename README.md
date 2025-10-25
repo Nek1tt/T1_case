@@ -3,17 +3,12 @@
 
 ## Установка
 
-Перед установкой необходим Node.js (https://nodejs.org)
+Перед установкой необходим Python для запуска сервера!
 
 ```bash
-mkdir T1
-cd T1
-#инициализация проекта
-npm init -y
-#Установим сервер для запуска
-npm install --save-dev http-server
-#Запуск
-npx http-server -c-1
+git clone https://github.com/Nek1tt/T1_case.git
+
+python -m http.server 8080
 ```
 После этого переходим на страницу:
 ```
