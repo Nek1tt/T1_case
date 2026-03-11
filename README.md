@@ -2,6 +2,8 @@
 
 > **Хакатон Импульс T1** — проект по сегментации фона в реальном времени с корпоративным оверлеем сотрудника.
 
+[Demonstration](./Background%20Segmentation%20Studio%20Demo.mp4)
+
 ---
 
 ## 📋 Описание
@@ -76,6 +78,7 @@ background_segmentator/
 
 **Вариант 1 — Python:**
 ```bash
+git clone https://github.com/Nek1tt/Background-Segmentation-Studio.git
 cd Background-Segmentation-Studio
 python -m http.server 8080
 ```
@@ -109,14 +112,13 @@ npx serve .
 
 ## 👥 Команда разработки
 
-- Абрамов Никита — Обучение и оптимизация ML моделей
-- Абдылдаев Нуршат — Frontend разработка
-- Цыренов Мэргэн — Frontend разработка
+- [Абрамов Никита](https://github.com/Nek1tt) — Обучение и оптимизация ML моделей
+- [Абдылдаев Нуршат](https://github.com/stakanmoloka) — Frontend разработка
+- [Цыренов Мэргэн](https://github.com/TM1550) — Frontend разработка
 
 ---
+
 ## 📧 Контакты
 
 - https://t.me/Nek1tJO - Telegram (Абрамов Никита)
 - n.abramov@g.nsu.ru (Абрамов Никита)
-
----
